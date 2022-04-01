@@ -1,2 +1,2 @@
 # config-repo
-config server
+springboot config server
